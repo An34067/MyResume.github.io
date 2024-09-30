@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    color: #000080;
+    background-color: #FFFFE0;
+  }
+  
+  h1 {
+    font-size: 2em;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-top: 20px;
+  }
+  
+  p {
+    line-height: 1.6;
+    text-align: justify;
+  }
+  
+  b {
+    font-weight: bold;
+  }
+  
+  i {
+    font-style: italic;
+  
+  ul {
+    list-style: disc;
+    margin-left: 40px;
+    padding-left: 0;
+  }
+  
+  hr {
+    border-top: 4px solid #008000;
+    width: 50%;
+    margin: 20px auto;
+  }
